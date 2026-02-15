@@ -1,0 +1,99 @@
+{
+  "counters": {
+    "u_column": 1,
+    "u_row": 1,
+    "u_content_html": 1
+  },
+  "body": {
+    "id": "body",
+    "rows": [
+      {
+        "id": "row_1",
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "id": "column_1",
+            "contents": [
+              {
+                "id": "html_1",
+                "type": "html",
+                "values": {
+                  "html": "<body class=\"clean-body u_body\" style=\"margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #ffffff;color: #000000\">\n<!--[if IE]><div class=\"ie-container\"><![endif]-->\n<!--[if mso]><div class=\"mso-container\"><![endif]-->\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #ffffff;width:100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\">\n<!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td align=\"center\" style=\"background-color: #ffffff;\"><![endif]-->\n<div class=\"u-row-container\" style=\"padding: 0px 0px 17px;background-image: url('assets/1654174173017-bg.png');background-repeat: no-repeat;background-position: center top;background-color: transparent\">\n<div class=\"u-row\" style=\"Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;\">\n<div style=\"border-collapse: collapse;display: table;width: 100%;background-color: transparent;\">\n<!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"padding: 0px 0px 17px;background-image: url('assets/1654174173017-bg.png');background-repeat: no-repeat;background-position: center top;background-color: transparent;\" align=\"center\"><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"width:600px;\"><tr style=\"background-color: transparent;\"><![endif]-->\n<!--[if (mso)|(IE)]><td align=\"center\" width=\"600\" style=\"width: 600px;padding: 60px 0px 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\" valign=\"top\"><![endif]-->\n<div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n<div style=\"width: 100% !important;\">\n<!--[if (!mso)&(!IE)]><!--><div style=\"padding: 60px 0px 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_1\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:1px 10px 0px;font-family:arial,helvetica,sans-serif;\">\n<h1 class=\"v-font-size\" style=\"margin: 0px; line-height: 110%; text-align: center; word-wrap: break-word; font-weight: normal; font-family: 'Lato',sans-serif; font-size: 30px;\">\n    Happy\n  </h1>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_2\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:1px;font-family:arial,helvetica,sans-serif;\">\n<h1 class=\"v-font-size\" style=\"margin: 0px; line-height: 110%; text-align: center; word-wrap: break-word; font-weight: normal; font-family: 'Lato',sans-serif; font-size: 70px;\">\n<strong>BIRTHDAY</strong>\n</h1>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_2\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 30px;font-family:arial,helvetica,sans-serif;\">\n<div style=\"line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%;\">Wishing you a Happy Birthday! As a valued [Industry1] customer, we're excited to offer you a special mystery gift personalized just for you.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_2\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:35px 10px 10px;font-family:arial,helvetica,sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tr>\n<td align=\"center\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"assets/1654173401831-box.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 528px;\" title=\"image\" width=\"528\"/>\n</td>\n</tr>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_1\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:40px 30px 20px;font-family:arial,helvetica,sans-serif;\">\n<div style=\"line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%;\">On your special day, we celebrate you with a mystery gift. We appreciate your continued loyalty and support.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_1\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<div align=\"center\">\n<!--[if mso]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;font-family:arial,helvetica,sans-serif;\"><tr><td style=\"font-family:arial,helvetica,sans-serif;\" align=\"center\"><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_9fc44c42.bin\" style=\"height:40px; v-text-anchor:middle; width:180px;\" arcsize=\"10%\" stroke=\"f\" fillcolor=\"#c22c00\"><w:anchorlock/><center style=\"color:#FFFFFF;font-family:arial,helvetica,sans-serif;\"><![endif]-->\n<a class=\"v-size-width\" href=\"assets/asset_9fc44c42.bin\" style=\"box-sizing: border-box;display: inline-block;font-family:arial,helvetica,sans-serif;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #c22c00; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:31%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;\" target=\"_blank\">\n<span style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"font-size: 16px; line-height: 19.2px;\"><strong><span style=\"line-height: 19.2px; font-family: Lato, sans-serif; font-size: 16px;\">Get Now</span></strong></span></span>\n</a>\n<!--[if mso]></center></v:roundrect></td></tr></table><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 10px 0px;font-family:arial,helvetica,sans-serif;\">\n<div align=\"center\">\n<div style=\"display: table; max-width:147px;\">\n<!--[if (mso)|(IE)]><table width=\"147\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse:collapse;\" align=\"center\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:147px;\"><tr><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 5px;\" valign=\"top\"><![endif]-->\n<table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 5px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td align=\"left\" style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_d58ff915.bin\" target=\"_blank\" title=\"Facebook\">\n<img alt=\"Facebook\" src=\"assets/facebook.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Facebook\" width=\"32\"/>\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 5px;\" valign=\"top\"><![endif]-->\n<table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 5px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td align=\"left\" style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_9f791c42.bin\" target=\"_blank\" title=\"LinkedIn\">\n<img alt=\"LinkedIn\" src=\"assets/linkedin.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"LinkedIn\" width=\"32\"/>\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 5px;\" valign=\"top\"><![endif]-->\n<table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 5px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td align=\"left\" style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_51e18f1a.bin\" target=\"_blank\" title=\"Instagram\">\n<img alt=\"Instagram\" src=\"assets/instagram.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Instagram\" width=\"32\"/>\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 0px;\" valign=\"top\"><![endif]-->\n<table align=\"left\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td align=\"left\" style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_c5785f27.bin\" target=\"_blank\" title=\"Skype\">\n<img alt=\"Skype\" src=\"assets/skype.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Skype\" width=\"32\"/>\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_4\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<div style=\"line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%;\"><span style=\"font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6px;\">2261 Market Street #4667 San Francisco, CA 94114</span></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:5px 50px;font-family:arial,helvetica,sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #000000;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>\u00a0</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:arial,helvetica,sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:arial,helvetica,sans-serif;\">\n<div style=\"line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%;\">\u00a9 2022 Laravel Mail. All Rights Reserved</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>\n</div>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</div>\n<!--[if (mso)|(IE)]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if mso]></div><![endif]-->\n<!--[if IE]></div><![endif]-->\n</body>",
+                  "containerPadding": "10px",
+                  "_meta": {
+                    "htmlID": "u_content_html_1",
+                    "htmlClassNames": "u_content_html"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "_meta": {
+                "htmlID": "u_column_1",
+                "htmlClassNames": "u_column"
+              }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "hideDesktop": false,
+          "_meta": {
+            "htmlID": "u_row_1",
+            "htmlClassNames": "u_row"
+          },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      }
+    ],
+    "values": {
+      "backgroundColor": "#e7e7e7",
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": false,
+        "center": true,
+        "cover": false
+      },
+      "contentWidth": "600px",
+      "contentAlign": "center",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      },
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      }
+    }
+  },
+  "schemaVersion": 16
+}
